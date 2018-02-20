@@ -1,15 +1,17 @@
 import urllib, json
-import googlemap
+import googleplaces
+from googleplaces import GooglePlaces, types, lang
 
-def GoogPlac(lat, lng, types, key):
+def GoogPlac(lat, lng, radius,type, key):
 	AUTH_KEY = key
 	LOCATION = str(lat) + "," + str(lng)
 	RADIUS = radius
-	TYPES = types
+	TYPE = type
 	MyUrl = ('https://maps.googleapis.com/maps/api/place/nearbysearch/json'
            '?location=%s'
-           '&types=%s'
-           '&sensor=false&key=%s') % (LOCATION, TYPES, AUTH_KEY)
+           '&radius=%s'
+           '&type=%s'
+           '&sensor=false&key=%s') % (LOCATION, RADIUS, TYPE, AUTH_KEY)
 #grabbing the Json result
 	response = urllib.urlopen(MyUrl)
 	jsonRaw = response.read()
@@ -23,12 +25,5 @@ def IterJson(place):
 	return x
 
 #setting the parameters I use in the query = type and my key
-MyKey = 'AIzaSyD594CyJiZ1Do5W81QozG4k16YhJe3sduk'
+MyKey = 'AIzaSyCPrWFxTwfbV1LJSMPyEnroNh_Ezb2KEhI'
 MyType = 'cafe'
-
-for m in range(0,100):
-	search = GoogPlac(lat=d[m]['mapy'], lng = d[m]['mapx'], types=MyType, key = MyKey)
-#	if search['status'] == 'ok' :
-#		for place in search['results']:
-#			x = IterJson(place)
-#			results = list(case) + x
