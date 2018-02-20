@@ -1,0 +1,100 @@
+{'title': '성심당', 'telephone': '1588-8069', 'roadAddress': '대전광역시 중구 대종로480번길 15', 'mapx': '348785', 'mapy': '414276'}
+{'title': '이성당', 'telephone': '063-445-2772', 'roadAddress': '전라북도 군산시 중앙로 177 이성당', 'mapx': '283971', 'mapy': '377120'}
+{'title': '스타펫미팅 애견<b>카페</b>', 'telephone': '', 'roadAddress': '충청북도 충주시 성서7길 29-1', 'mapx': '394090', 'mapy': '485624'}
+{'title': '테라로사 커피공장', 'telephone': '033-648-2760', 'roadAddress': '강원도 강릉시 구정면 현천길 7', 'mapx': '478853', 'mapy': '566337'}
+{'title': '패션5', 'telephone': '02-2071-9505', 'roadAddress': '서울특별시 용산구 이태원로 272 SPC빌딩', 'mapx': '312013', 'mapy': '548966'}
+{'title': '산토리니 <b>카페</b> 레스토랑', 'telephone': '033-242-3010', 'roadAddress': '강원도 춘천시 동면 순환대로 1154-97 구봉산휴게소', 'mapx': '380540', 'mapy': '587667'}
+{'title': '테라로사 서종점', 'telephone': '', 'roadAddress': '경기도 양평군 서종면 북한강로 992', 'mapx': '343293', 'mapy': '558255'}
+{'title': '서연의집', 'telephone': '064-764-7894', 'roadAddress': '제주특별자치도 서귀포시 남원읍 위미해안로 86', 'mapx': '274945', 'mapy': '75683'}
+{'title': '피오니', 'telephone': '02-333-5325', 'roadAddress': '서울특별시 마포구 어울마당로 56', 'mapx': '304878', 'mapy': '550298'}
+{'title': '어니언', 'telephone': '02-1644-1941', 'roadAddress': '서울특별시 성동구 아차산로9길 8 어니언', 'mapx': '316967', 'mapy': '549587'}
+{'title': '몽상드애월', 'telephone': '064-799-8900', 'roadAddress': '제주특별자치도 제주시 애월읍 애월북서길 56-1', 'mapx': '243023', 'mapy': '97609'}
+{'title': '제주봄날', 'telephone': '064-799-4999', 'roadAddress': '제주특별자치도 제주시 애월읍 애월로1길 25', 'mapx': '243054', 'mapy': '97561'}
+{'title': '프릳츠 도화점', 'telephone': '02-3275-2045', 'roadAddress': '서울특별시 마포구 새창로2길 17', 'mapx': '307323', 'mapy': '549281'}
+{'title': '맘모스제과', 'telephone': '054-857-6000', 'roadAddress': '경상북도 안동시 문화광장길 34', 'mapx': '465625', 'mapy': '440673'}
+{'title': '옵스 해운대점', 'telephone': '051-747-6886', 'roadAddress': '부산광역시 해운대구 중동1로 31', 'mapx': '506136', 'mapy': '285503'}
+{'title': '알베르', 'telephone': '02-566-6181', 'roadAddress': '서울특별시 강남구 강남대로102길 34', 'mapx': '314261', 'mapy': '544987'}
+{'title': 'C27', 'telephone': '02-544-1527', 'roadAddress': '서울특별시 강남구 도산대로15길 39', 'mapx': '313862', 'mapy': '546956'}
+{'title': '가로수길', 'telephone': '', 'roadAddress': '', 'mapx': '313842', 'mapy': '546843'}
+{'title': '앤트러사이트 제주한림점', 'telephone': '064-796-7991', 'roadAddress': '제주특별자치도 제주시 한림읍 한림로 564', 'mapx': '238189', 'mapy': '91576'}
+{'title': '어글리스토브 신논현강남역점', 'telephone': '02-558-8459', 'roadAddress': '서울특별시 강남구 강남대로98길 20', 'mapx': '314278', 'mapy': '544739'}
+{'title': '쟝블랑제리', 'telephone': '02-889-5170', 'roadAddress': '서울특별시 관악구 낙성대역길 8', 'mapx': '308388', 'mapy': '542176'}
+{'title': '웨이브온커피', 'telephone': '051-727-1660', 'roadAddress': '부산광역시 기장군 장안읍 해맞이로 286 웨이브온커피', 'mapx': '515647', 'mapy': '303321'}
+{'title': '앤트러사이트 합정점', 'telephone': '02-322-0009', 'roadAddress': '서울특별시 마포구 토정로5길 10', 'mapx': '304624', 'mapy': '549845'}
+{'title': '델문도', 'telephone': '064-702-0007', 'roadAddress': '제주특별자치도 제주시 조천읍 조함해안로 519-10', 'mapx': '276556', 'mapy': '106092'}
+{'title': '<b>카페</b>폴앤메리', 'telephone': '033-653-2354', 'roadAddress': '강원도 강릉시 창해로350번길 33', 'mapx': '480942', 'mapy': '577535'}
+{'title': '보키네강아지', 'telephone': '053-644-9557', 'roadAddress': '대구광역시 달서구 조암로6길 6-34', 'mapx': '447942', 'mapy': '358620'}
+{'title': '태극당', 'telephone': '02-2279-3152', 'roadAddress': '서울특별시 중구 동호로24길 7 태극당', 'mapx': '312301', 'mapy': '551283'}
+{'title': '<b>카페</b>마마스 강남역점', 'telephone': '02-584-1260', 'roadAddress': '서울특별시 서초구 서운로 138 서초동아타워', 'mapx': '314022', 'mapy': '544228'}
+{'title': '소복 홍대 본점', 'telephone': '02-6014-0861', 'roadAddress': '서울특별시 마포구 어울마당로 58', 'mapx': '304878', 'mapy': '550311'}
+{'title': '세상의모든아침', 'telephone': '02-2055-4442', 'roadAddress': '서울특별시 영등포구 여의대로 24 전경련회관 50, 51F', 'mapx': '304751', 'mapy': '547220'}
+{'title': '<b>카페</b>부라노', 'telephone': '02-322-8476', 'roadAddress': '서울특별시 마포구 동교로23길 14 국제빌딩', 'mapx': '304845', 'mapy': '551063'}
+{'title': '산모퉁이', 'telephone': '02-391-4737', 'roadAddress': '서울특별시 종로구 백석동길 153', 'mapx': '309058', 'mapy': '555299'}
+{'title': '젤라띠젤라띠', 'telephone': '02-3144-3281', 'roadAddress': '서울특별시 마포구 와우산로17길 12', 'mapx': '304976', 'mapy': '550337'}
+{'title': '타르틴 이태원본점', 'telephone': '02-3785-3400', 'roadAddress': '서울특별시 용산구 이태원로23길 4', 'mapx': '311185', 'mapy': '548539'}
+{'title': '놀맨', 'telephone': '064-799-3332', 'roadAddress': '제주특별자치도 제주시 애월읍 애월로1길 24', 'mapx': '243115', 'mapy': '97564'}
+{'title': '더달달 역삼점', 'telephone': '02-562-3737', 'roadAddress': '서울특별시 강남구 강남대로102길 38-6 1층', 'mapx': '314299', 'mapy': '545009'}
+{'title': '스트릿츄러스 이태원점', 'telephone': '02-792-1489', 'roadAddress': '서울특별시 용산구 녹사평대로 222', 'mapx': '310672', 'mapy': '548844'}
+{'title': '삼송빵집 본점', 'telephone': '053-254-4064', 'roadAddress': '대구광역시 중구 중앙대로 395', 'mapx': '453792', 'mapy': '363324'}
+{'title': '하하호호', 'telephone': '', 'roadAddress': '제주특별자치도 제주시 우도면 우도해안길 532', 'mapx': '302528', 'mapy': '103260'}
+{'title': '<b>카페</b>왈', 'telephone': '032-568-7757', 'roadAddress': '인천광역시 서구 중봉대로612번길 10-20 청라프라자', 'mapx': '281063', 'mapy': '548770'}
+{'title': '비루개', 'telephone': '031-841-7612', 'roadAddress': '경기도 남양주시 별내면 용암비루개길 219-88', 'mapx': '323105', 'mapy': '570901'}
+{'title': '<b>카페</b>인신현리', 'telephone': '', 'roadAddress': '경기도 광주시 오포읍 새말길167번길 68', 'mapx': '326171', 'mapy': '531027'}
+{'title': '외할머니솜씨', 'telephone': '063-232-5804', 'roadAddress': '전라북도 전주시 완산구 은행로 87', 'mapx': '323664', 'mapy': '357258'}
+{'title': 'PNB본점', 'telephone': '063-285-6666', 'roadAddress': '전라북도 전주시 완산구 팔달로 180 풍년제과', 'mapx': '323139', 'mapy': '357950'}
+{'title': '알렉스더커피 용인점', 'telephone': '', 'roadAddress': '경기도 용인시 처인구 백암면 삼백로835번길 12', 'mapx': '343977', 'mapy': '504989'}
+{'title': 'ZAGMACHI', 'telephone': '', 'roadAddress': '서울특별시 성동구 성수이로 88 남정빌딩', 'mapx': '316841', 'mapy': '549363'}
+{'title': '허밍벨라', 'telephone': '02-324-7050', 'roadAddress': '서울특별시 마포구 독막로7길 57', 'mapx': '304768', 'mapy': '550342'}
+{'title': '유니스의 정원', 'telephone': '031-437-2045', 'roadAddress': '경기도 안산시 상록구 반월천북길 139 허브향원', 'mapx': '301726', 'mapy': '523872'}
+{'title': '해어름', 'telephone': '041-362-1955', 'roadAddress': '충청남도 당진시 신평면 매산해변길 144', 'mapx': '293883', 'mapy': '481639'}
+{'title': '<b>카페</b> 뎀셀브즈', 'telephone': '02-2266-5947', 'roadAddress': '서울특별시 종로구 삼일대로 388', 'mapx': '310801', 'mapy': '552370'}
+{'title': '<b>카페</b>드로잉', 'telephone': '031-718-4308', 'roadAddress': '경기도 성남시 분당구 정자일로 220 동양정자파라곤', 'mapx': '321032', 'mapy': '530103'}
+{'title': '성수동대림창고갤러리컬럼', 'telephone': '02-499-9669', 'roadAddress': '서울특별시 성동구 성수이로 78', 'mapx': '316814', 'mapy': '549270'}
+{'title': '벤자마스', 'telephone': '', 'roadAddress': '경상북도 경주시 윗동천길 2', 'mapx': '511979', 'mapy': '361154'}
+{'title': '<b>카페</b> 공작소', 'telephone': '', 'roadAddress': '제주특별자치도 제주시 구좌읍 해맞이해안로 1446', 'mapx': '294291', 'mapy': '103765'}
+{'title': '황남빵', 'telephone': '054-749-7000', 'roadAddress': '경상북도 경주시 태종로 783', 'mapx': '509835', 'mapy': '360791'}
+{'title': '닐모리동동', 'telephone': '064-745-5008', 'roadAddress': '제주특별자치도 제주시 서해안로 452 오다펜션 1층', 'mapx': '259715', 'mapy': '103451'}
+{'title': '효자베이커리', 'telephone': '02-736-7629', 'roadAddress': '서울특별시 종로구 필운대로 54', 'mapx': '309108', 'mapy': '553694'}
+{'title': '코롬방제과', 'telephone': '061-243-2161', 'roadAddress': '전라남도 목포시 노적봉길 9', 'mapx': '252345', 'mapy': '244702'}
+{'title': '바다정원', 'telephone': '033-636-1096', 'roadAddress': '강원도 고성군 토성면 버리깨길 31 바다정원', 'mapx': '451289', 'mapy': '625498'}
+{'title': '고당', 'telephone': '031-576-8090', 'roadAddress': '경기도 남양주시 조안면 북한강로 121 고당', 'mapx': '338540', 'mapy': '548464'}
+{'title': '엠키친&amp;<b>카페</b>', 'telephone': '031-577-3200', 'roadAddress': '경기도 남양주시 와부읍 경강로 832 엠키친', 'mapx': '332352', 'mapy': '551402'}
+{'title': '라뜰리에 김가', 'telephone': '033-252-5756', 'roadAddress': '강원도 춘천시 동면 순환대로 1154-18', 'mapx': '380674', 'mapy': '586896'}
+{'title': '에이블', 'telephone': '02-3445-7335', 'roadAddress': '서울특별시 강남구 압구정로14길 12', 'mapx': '313846', 'mapy': '547269'}
+{'title': '도레도레<b>카페</b>', 'telephone': '032-937-1415', 'roadAddress': '인천광역시 강화군 화도면 해안남로 1864-18', 'mapx': '261025', 'mapy': '557272'}
+{'title': '홍대개미 홍대점', 'telephone': '02-586-9289', 'roadAddress': '서울특별시 마포구 독막로 67-9', 'mapx': '304835', 'mapy': '550103'}
+{'title': '식물', 'telephone': '02-747-4854', 'roadAddress': '서울특별시 종로구 돈화문로11다길 46-1', 'mapx': '310951', 'mapy': '552876'}
+{'title': '포트1902', 'telephone': '1899-6837', 'roadAddress': '부산광역시 해운대구 송정구덕포길 170-5', 'mapx': '509221', 'mapy': '286137'}
+{'title': '브라더후드키친', 'telephone': '02-539-1230', 'roadAddress': '서울특별시 강남구 봉은사로4길 22 2층, 3층', 'mapx': '314114', 'mapy': '545033'}
+{'title': '살롱드몽슈슈 가로수길 본점', 'telephone': '02-3445-6054', 'roadAddress': '서울특별시 강남구 압구정로4길 13-20 1층', 'mapx': '313718', 'mapy': '547142'}
+{'title': '향기품은뜰', 'telephone': '063-232-2799', 'roadAddress': '전라북도 전주시 완산구 인봉1길 49-5', 'mapx': '324109', 'mapy': '358657'}
+{'title': '테라로사 사천점', 'telephone': '', 'roadAddress': '강원도 강릉시 사천면 순포안길 6', 'mapx': '478114', 'mapy': '580356'}
+{'title': '월정리LOWA', 'telephone': '064-783-2240', 'roadAddress': '제주특별자치도 제주시 구좌읍 해맞이해안로 472', 'mapx': '288482', 'mapy': '107213'}
+{'title': '아오이토리', 'telephone': '02-333-0421', 'roadAddress': '서울특별시 마포구 와우산로29길 8', 'mapx': '305610', 'mapy': '550824'}
+{'title': '빌즈 잠실', 'telephone': '02-3213-4185', 'roadAddress': '서울특별시 송파구 올림픽로 300 롯데월드몰 1층', 'mapx': '320970', 'mapy': '546049'}
+{'title': 'Cafe The Air', 'telephone': '02-324-2780', 'roadAddress': '서울특별시 마포구 양화로 99', 'mapx': '304608', 'mapy': '550639'}
+{'title': 'LeTAO', 'telephone': '', 'roadAddress': '서울특별시 강남구 압구정로18길 31', 'mapx': '314068', 'mapy': '547215'}
+{'title': '안티크코코', 'telephone': '02-322-1837', 'roadAddress': '서울특별시 마포구 독막로 64', 'mapx': '304812', 'mapy': '550048'}
+{'title': '살롱드에이치', 'telephone': '031-714-1101', 'roadAddress': '경기도 성남시 분당구 판교역로14번길 15 로데오프라자 2층', 'mapx': '321469', 'mapy': '531834'}
+{'title': '브라운핸즈백제', 'telephone': '051-464-0332', 'roadAddress': '부산광역시 동구 중앙대로209번길 16', 'mapx': '494916', 'mapy': '280226'}
+{'title': '더그림', 'telephone': '', 'roadAddress': '경기도 양평군 옥천면 사나사길 175', 'mapx': '355746', 'mapy': '547548'}
+{'title': '마망갸또 강남역점', 'telephone': '02-556-3937', 'roadAddress': '서울특별시 강남구 봉은사로4길 31', 'mapx': '314160', 'mapy': '544965'}
+{'title': '더베이커스테이블', 'telephone': '', 'roadAddress': '서울특별시 용산구 녹사평대로 244-1', 'mapx': '310714', 'mapy': '549073'}
+{'title': '섬소나이', 'telephone': '064-784-2918', 'roadAddress': '', 'mapx': '303346', 'mapy': '102404'}
+{'title': '스노브 홍대점', 'telephone': '02-325-5770', 'roadAddress': '서울특별시 마포구 와우산로 59', 'mapx': '305020', 'mapy': '550276'}
+{'title': '보사노바', 'telephone': '033-653-0038', 'roadAddress': '강원도 강릉시 창해로14번길 28', 'mapx': '483700', 'mapy': '574817'}
+{'title': '성심당 케익부띠끄', 'telephone': '', 'roadAddress': '대전광역시 중구 대종로 480', 'mapx': '348732', 'mapy': '414255'}
+{'title': '아라파파', 'telephone': '064-725-8204', 'roadAddress': '제주특별자치도 제주시 국기로3길 2', 'mapx': '259938', 'mapy': '99077'}
+{'title': '9BLOCK', 'telephone': '031-761-1295', 'roadAddress': '경기도 광주시 경충대로 1969 나인블럭', 'mapx': '331434', 'mapy': '533766'}
+{'title': '클로리스 신논현점', 'telephone': '02-557-7523', 'roadAddress': '서울특별시 강남구 봉은사로2길 12', 'mapx': '314042', 'mapy': '545084'}
+{'title': '에스프레소 퍼블릭', 'telephone': '02-556-9317', 'roadAddress': '서울특별시 강남구 강남대로102길 30', 'mapx': '314245', 'mapy': '544972'}
+{'title': '커피가게동경', 'telephone': '', 'roadAddress': '서울특별시 마포구 망원로6길 21', 'mapx': '303324', 'mapy': '550983'}
+{'title': '학림다방', 'telephone': '02-742-2877', 'roadAddress': '서울특별시 종로구 대학로 119', 'mapx': '312021', 'mapy': '553772'}
+{'title': '<b>카페</b>진정성', 'telephone': '031-986-5520', 'roadAddress': '경기도 김포시 하성면 하성로 660', 'mapx': '279328', 'mapy': '570777'}
+{'title': '코드케이 방탈출<b>카페</b>', 'telephone': '', 'roadAddress': '서울특별시 강남구 봉은사로2길 31 지하 1층 코드케이', 'mapx': '314117', 'mapy': '544940'}
+{'title': '배터리파크 명동점', 'telephone': '', 'roadAddress': '서울특별시 중구 퇴계로 100 스테이트타워남산 B1 106호', 'mapx': '310348', 'mapy': '551386'}
+{'title': '<b>카페</b> 울라봉', 'telephone': '055-649-3824', 'roadAddress': '경상남도 통영시 동문로 22 2층', 'mapx': '439165', 'mapy': '249866'}
+{'title': '비트포비아 신논현', 'telephone': '02-6408-6408', 'roadAddress': '서울특별시 강남구 봉은사로 115 노벨테크빌딩 B2F', 'mapx': '314094', 'mapy': '545227'}
+{'title': '르알래스카 가로수길점', 'telephone': '02-546-5872', 'roadAddress': '서울특별시 강남구 압구정로14길 15', 'mapx': '313869', 'mapy': '547254'}
+{'title': '홍대반지<b>카페</b>', 'telephone': '02-337-6464', 'roadAddress': '서울특별시 마포구 잔다리로6길 40-6', 'mapx': '304884', 'mapy': '550539'}
+{'title': '듀자미', 'telephone': '02-3443-0030', 'roadAddress': '서울특별시 강남구 도산대로11길 28', 'mapx': '313794', 'mapy': '546802'}
