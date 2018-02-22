@@ -9,7 +9,7 @@ import io
 sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding = 'utf-8')
 sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 
-MAX_FETCH = 200
+MAX_FETCH = 60
 AUTH_KEY = "AIzaSyCPrWFxTwfbV1LJSMPyEnroNh_Ezb2KEhI"
 
 google_places = GooglePlaces(AUTH_KEY)
